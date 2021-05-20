@@ -5,3 +5,4 @@ to learn about github. using the hello world guide.
 
 
 How to make a new branch...?
+Now how to merge it with main...?
